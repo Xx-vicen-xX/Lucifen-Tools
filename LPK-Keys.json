@@ -1,0 +1,841 @@
+"LPK-Keys": {
+      "KnownSchemes": {
+        "Default": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Gangsta Republica": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Happening Love!!": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": false
+        },
+        "Koi no Honey Trap": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Love-Bride Eve": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Magical Kanan - RISEA": {
+          "BaseKey": {
+            "Key1": 967161469,
+            "Key2": 3594171881
+          },
+          "ContentXor": 166,
+          "RotatePattern": 907309906,
+          "ImportGameInit": false
+        },
+        "Nekonade Distortion": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Nekonade Distortion Exodus": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Niizuma wa Mahou Shoujo": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Niizuma-san to Kozukuri": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Ore-tachi ni Tsubasa wa Nai": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Prism Princess": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": false
+        },
+        "Ren'ai Harem ~Daisuki tte Iwasete~": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": false
+        },
+        "Rikorisu ~Lycoris Radiata~": {
+          "BaseKey": {
+            "Key1": 967161469,
+            "Key2": 3594171881
+          },
+          "ContentXor": 166,
+          "RotatePattern": 907309906,
+          "ImportGameInit": false
+        },
+        "Sakura Synchronicity": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": false
+        },
+        "Shinsetsu Ryouki no Ori Dai 2 Shou": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Shuffle! Essence+": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Shuffle! Love Rainbow": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        },
+        "Yasashii Mahou no Tonaekata": {
+          "BaseKey": {
+            "Key1": 2780408939,
+            "Key2": 2590219749
+          },
+          "ContentXor": 93,
+          "RotatePattern": 829710981,
+          "ImportGameInit": true
+        }
+      },
+      "KnownKeys": {
+        "Ne~pon? x Raipon!": {
+          "SYS.LPK": {
+            "Key1": 1742419437,
+            "Key2": 3192744503
+          },
+          "CHR.LPK": {
+            "Key1": 2654711126,
+            "Key2": 2516491715
+          },
+          "PIC.LPK": {
+            "Key1": 3652576963,
+            "Key2": 3126060501
+          },
+          "BGM.LPK": {
+            "Key1": 3949847477,
+            "Key2": 3445038569
+          },
+          "SE.LPK": {
+            "Key1": 2595466590,
+            "Key2": 2906475926
+          },
+          "VOICE.LPK": {
+            "Key1": 1976292765,
+            "Key2": 1591057098
+          },
+          "DATA.LPK": {
+            "Key1": 3731543358,
+            "Key2": 2654690877
+          },
+          "DESKTOP.LPK": {
+            "Key1": 2899686253,
+            "Key2": 3580549981
+          }
+        },
+        "Doki Doki Rooming": {
+          "SYS.LPK": {
+            "Key1": 2150673302,
+            "Key2": 3119932302
+          },
+          "CHR.LPK": {
+            "Key1": 2813925259,
+            "Key2": 4154217596
+          },
+          "PIC.LPK": {
+            "Key1": 884421161,
+            "Key2": 3062947965
+          },
+          "BGM.LPK": {
+            "Key1": 1105678431,
+            "Key2": 504415173
+          },
+          "SE.LPK": {
+            "Key1": 887064414,
+            "Key2": 1129710568
+          },
+          "VOICE.LPK": {
+            "Key1": 812653939,
+            "Key2": 4216474853
+          },
+          "ANIME.LPK": {
+            "Key1": 2256190279,
+            "Key2": 2724151880
+          },
+          "DATA.LPK": {
+            "Key1": 1540035379,
+            "Key2": 2570214906
+          }
+        },
+        "Niizuma wa Mahou Shoujo": {
+          "SYS.LPK": {
+            "Key1": 2150673302,
+            "Key2": 3119932302
+          },
+          "CHR.LPK": {
+            "Key1": 2813925259,
+            "Key2": 4154217596
+          },
+          "PIC.LPK": {
+            "Key1": 884421161,
+            "Key2": 3062947965
+          },
+          "BGM.LPK": {
+            "Key1": 1105678431,
+            "Key2": 504415173
+          },
+          "SE.LPK": {
+            "Key1": 887064414,
+            "Key2": 1129710568
+          },
+          "VOICE.LPK": {
+            "Key1": 812653939,
+            "Key2": 4216474853
+          },
+          "ANIME.LPK": {
+            "Key1": 2256190279,
+            "Key2": 2724151880
+          },
+          "DATA.LPK": {
+            "Key1": 1540035379,
+            "Key2": 2570214906
+          }
+        },
+        "Niizuma-san to Kozukuri": {
+          "SYS.LPK": {
+            "Key1": 3123534259,
+            "Key2": 1249031618
+          },
+          "PIC.LPK": {
+            "Key1": 2331625836,
+            "Key2": 1825800139
+          },
+          "BGM.LPK": {
+            "Key1": 2091509228,
+            "Key2": 1771406821
+          },
+          "SE.LPK": {
+            "Key1": 3838277740,
+            "Key2": 2817215325
+          },
+          "VOICE.LPK": {
+            "Key1": 4226114407,
+            "Key2": 2123012742
+          }
+        },
+        "Happening Love!!": {
+          "SYS.LPK": {
+            "Key1": 1776006829,
+            "Key2": 1406693012
+          },
+          "CHR.LPK": {
+            "Key1": 610744806,
+            "Key2": 2086119769
+          },
+          "PIC.LPK": {
+            "Key1": 2764775843,
+            "Key2": 3383994429
+          },
+          "BGM.LPK": {
+            "Key1": 2619661674,
+            "Key2": 3739757510
+          },
+          "SE.LPK": {
+            "Key1": 1180552901,
+            "Key2": 3544825495
+          },
+          "VOICE.LPK": {
+            "Key1": 1472848615,
+            "Key2": 911919435
+          },
+          "DATA.LPK": {
+            "Key1": 1683864038,
+            "Key2": 3684398390
+          }
+        },
+        "Gangsta Republica": {
+          "SYS.LPK": {
+            "Key1": 3673273929,
+            "Key2": 1584110538
+          },
+          "CHR.LPK": {
+            "Key1": 3466542585,
+            "Key2": 3938855398
+          },
+          "PIC.LPK": {
+            "Key1": 2325654629,
+            "Key2": 3262601623
+          },
+          "BGM.LPK": {
+            "Key1": 3170411482,
+            "Key2": 1603689307
+          },
+          "SE.LPK": {
+            "Key1": 3337859709,
+            "Key2": 3358453660
+          },
+          "VOICE.LPK": {
+            "Key1": 2750403710,
+            "Key2": 3923137414
+          },
+          "DATA.LPK": {
+            "Key1": 1953017525,
+            "Key2": 2795071719
+          }
+        },
+        "Koi no Honey Trap": {
+          "SYS.LPK": {
+            "Key1": 3950562436,
+            "Key2": 2465580473
+          },
+          "CHR.LPK": {
+            "Key1": 3732322674,
+            "Key2": 510254414
+          },
+          "PIC.LPK": {
+            "Key1": 3714335650,
+            "Key2": 3444058162
+          },
+          "BGM.LPK": {
+            "Key1": 3270869454,
+            "Key2": 2212782692
+          },
+          "SE.LPK": {
+            "Key1": 1501114001,
+            "Key2": 1707905521
+          },
+          "VOICE.LPK": {
+            "Key1": 2492159261,
+            "Key2": 3151379304
+          },
+          "DATA.LPK": {
+            "Key1": 3962355371,
+            "Key2": 3925391702
+          }
+        },
+        "Little Rabbits -Wagamama Twin Tail-": {
+          "SYS.LPK": {
+            "Key1": 1486795766,
+            "Key2": 4079569524
+          },
+          "CHR.LPK": {
+            "Key1": 2894254754,
+            "Key2": 774505337
+          },
+          "PIC.LPK": {
+            "Key1": 1169541828,
+            "Key2": 3011858401
+          },
+          "BGM.LPK": {
+            "Key1": 3033930669,
+            "Key2": 1956274141
+          },
+          "SE.LPK": {
+            "Key1": 2603161337,
+            "Key2": 2788183917
+          },
+          "VOICE.LPK": {
+            "Key1": 2506321719,
+            "Key2": 1505291675
+          },
+          "DATA.LPK": {
+            "Key1": 2414262616,
+            "Key2": 944361607
+          }
+        },
+        "Love-Bride Eve": {
+          "SYS.LPK": {
+            "Key1": 1384292118,
+            "Key2": 2501636030
+          },
+          "CHR.LPK": {
+            "Key1": 1337950888,
+            "Key2": 2647706321
+          },
+          "PIC.LPK": {
+            "Key1": 1067741500,
+            "Key2": 2816836314
+          },
+          "BGM.LPK": {
+            "Key1": 1652325503,
+            "Key2": 2719990131
+          },
+          "SE.LPK": {
+            "Key1": 258363479,
+            "Key2": 3140750227
+          },
+          "VOICE.LPK": {
+            "Key1": 2141698024,
+            "Key2": 3068264431
+          },
+          "DATA.LPK": {
+            "Key1": 2921846376,
+            "Key2": 3050696856
+          }
+        },
+        "Shuffle! Love Rainbow": {
+          "SYS.LPK": {
+            "Key1": 1384292118,
+            "Key2": 2501636030
+          },
+          "CHR.LPK": {
+            "Key1": 1337950888,
+            "Key2": 2647706321
+          },
+          "PIC.LPK": {
+            "Key1": 1067741500,
+            "Key2": 2816836314
+          },
+          "BGM.LPK": {
+            "Key1": 1652325503,
+            "Key2": 2719990131
+          },
+          "SE.LPK": {
+            "Key1": 258363479,
+            "Key2": 3140750227
+          },
+          "VOICE.LPK": {
+            "Key1": 2141698024,
+            "Key2": 3068264431
+          },
+          "DATA.LPK": {
+            "Key1": 2921846376,
+            "Key2": 3050696856
+          }
+        },
+        "Nekonade Distortion": {
+          "SYS.LPK": {
+            "Key1": 2638580617,
+            "Key2": 2789792299
+          },
+          "CHR.LPK": {
+            "Key1": 2650677162,
+            "Key2": 2016053614
+          },
+          "PIC.LPK": {
+            "Key1": 1815410589,
+            "Key2": 3548864174
+          },
+          "BGM.LPK": {
+            "Key1": 1200740174,
+            "Key2": 1575178953
+          },
+          "SE.LPK": {
+            "Key1": 3310303843,
+            "Key2": 3011344723
+          },
+          "VOICE.LPK": {
+            "Key1": 3786727241,
+            "Key2": 2948423642
+          },
+          "DATA.LPK": {
+            "Key1": 2817932378,
+            "Key2": 1186557334
+          }
+        },
+        "Nekonade Distortion Exodus": {
+          "SYS.LPK": {
+            "Key1": 3834862571,
+            "Key2": 3699131325
+          },
+          "CHR.LPK": {
+            "Key1": 1675008581,
+            "Key2": 3870775732
+          },
+          "PIC.LPK": {
+            "Key1": 3448005479,
+            "Key2": 1424718010
+          },
+          "BGM.LPK": {
+            "Key1": 3912600685,
+            "Key2": 3077166953
+          },
+          "SE.LPK": {
+            "Key1": 3183258541,
+            "Key2": 3965499820
+          },
+          "VOICE.LPK": {
+            "Key1": 1570691814,
+            "Key2": 1790891754
+          },
+          "DATA.LPK": {
+            "Key1": 3938610106,
+            "Key2": 2524571595
+          }
+        },
+        "Ore-tachi ni Tsubasa wa Nai": {
+          "SYS.LPK": {
+            "Key1": 1380341738,
+            "Key2": 2016107100
+          },
+          "CHR.LPK": {
+            "Key1": 2358782922,
+            "Key2": 1186745565
+          },
+          "PIC.LPK": {
+            "Key1": 3079442748,
+            "Key2": 1475130181
+          },
+          "BGM.LPK": {
+            "Key1": 1172516477,
+            "Key2": 1330875619
+          },
+          "SE.LPK": {
+            "Key1": 2589652702,
+            "Key2": 3407374023
+          },
+          "VOICE.LPK": {
+            "Key1": 1052122420,
+            "Key2": 3025251094
+          },
+          "DATA.LPK": {
+            "Key1": 2095426666,
+            "Key2": 1235460955
+          }
+        },
+        "Ore-tachi ni Tsubasa wa Nai R": {
+          "SYS.LPK": {
+            "Key1": 3214067115,
+            "Key2": 3916907173
+          },
+          "CHR.LPK": {
+            "Key1": 3378945625,
+            "Key2": 1271453118
+          },
+          "PIC.LPK": {
+            "Key1": 994256618,
+            "Key2": 2914424667
+          },
+          "BGM.LPK": {
+            "Key1": 3219050382,
+            "Key2": 2247293893
+          },
+          "SE.LPK": {
+            "Key1": 2348375181,
+            "Key2": 2628174990
+          },
+          "VOICE.LPK": {
+            "Key1": 1955782532,
+            "Key2": 2824620231
+          },
+          "DATA.LPK": {
+            "Key1": 852967533,
+            "Key2": 2331528323
+          }
+        },
+        "Ore-tachi ni Tsubasa wa Nai AfterStory": {
+          "SYS.LPK": {
+            "Key1": 2840651891,
+            "Key2": 3337086419
+          },
+          "CHR.LPK": {
+            "Key1": 3477429460,
+            "Key2": 4252778090
+          },
+          "PIC.LPK": {
+            "Key1": 3830625987,
+            "Key2": 2842126670
+          },
+          "BGM.LPK": {
+            "Key1": 3427937883,
+            "Key2": 1982187252
+          },
+          "SE.LPK": {
+            "Key1": 2288801595,
+            "Key2": 1305148517
+          },
+          "VOICE.LPK": {
+            "Key1": 4140641636,
+            "Key2": 2181808291
+          },
+          "DATA.LPK": {
+            "Key1": 541253156,
+            "Key2": 1466430324
+          }
+        },
+        "Ren'ai Harem ~Daisuki tte Iwasete~": {
+          "SYS.LPK": {
+            "Key1": 2393764267,
+            "Key2": 1260604104
+          },
+          "CHR.LPK": {
+            "Key1": 2791012413,
+            "Key2": 4133378585
+          },
+          "PIC.LPK": {
+            "Key1": 917265850,
+            "Key2": 3516350893
+          },
+          "BGM.LPK": {
+            "Key1": 1810520958,
+            "Key2": 692033208
+          },
+          "SE.LPK": {
+            "Key1": 3242610280,
+            "Key2": 3130936470
+          },
+          "VOICE.LPK": {
+            "Key1": 2218122483,
+            "Key2": 3199035875
+          },
+          "DATA.LPK": {
+            "Key1": 3665147513,
+            "Key2": 3136117442
+          }
+        },
+        "Sakura Synchronicity": {
+          "SYS.LPK": {
+            "Key1": 2928785077,
+            "Key2": 2638409052
+          },
+          "CHR.LPK": {
+            "Key1": 2110298446,
+            "Key2": 3068404889
+          },
+          "PIC.LPK": {
+            "Key1": 3332183606,
+            "Key2": 947762025
+          },
+          "BGM.LPK": {
+            "Key1": 2356785797,
+            "Key2": 3135549033
+          },
+          "SE.LPK": {
+            "Key1": 1161531019,
+            "Key2": 2227265160
+          },
+          "VOICE.LPK": {
+            "Key1": 2473498330,
+            "Key2": 1534298344
+          },
+          "DATA.LPK": {
+            "Key1": 760064712,
+            "Key2": 3780998574
+          }
+        },
+        "Shinsetsu Ryouki no Ori Dai 2 Shou": {
+          "SYS.LPK": {
+            "Key1": 965128137,
+            "Key2": 4237046503
+          },
+          "CHR.LPK": {
+            "Key1": 457673030,
+            "Key2": 1218348025
+          },
+          "PIC.LPK": {
+            "Key1": 1067286645,
+            "Key2": 2807872931
+          },
+          "BGM.LPK": {
+            "Key1": 3937768604,
+            "Key2": 1219225619
+          },
+          "SE.LPK": {
+            "Key1": 1519760235,
+            "Key2": 614419435
+          },
+          "VOICE.LPK": {
+            "Key1": 1804944948,
+            "Key2": 2714706894
+          },
+          "DATA.LPK": {
+            "Key1": 2207631307,
+            "Key2": 3838811707
+          }
+        },
+        "Shuffle! Essence+": {
+          "SYS.LPK": {
+            "Key1": 2741198788,
+            "Key2": 2705999494
+          },
+          "CHR.LPK": {
+            "Key1": 1312048700,
+            "Key2": 3034103149
+          },
+          "PIC.LPK": {
+            "Key1": 4120032587,
+            "Key2": 2899130908
+          },
+          "BGM.LPK": {
+            "Key1": 3305975766,
+            "Key2": 3365791657
+          },
+          "SE.LPK": {
+            "Key1": 3922546203,
+            "Key2": 2561514851
+          },
+          "VOICE.LPK": {
+            "Key1": 2254081358,
+            "Key2": 1949148053
+          },
+          "DATA.LPK": {
+            "Key1": 3466945094,
+            "Key2": 3729193382
+          }
+        },
+        "Unmei ga Kimi no Oya wo Erabu Kimi no Yuujin wa Kimi ga Erabu": {
+          "SYS.LPK": {
+            "Key1": 1470019899,
+            "Key2": 2625370534
+          },
+          "CHR.LPK": {
+            "Key1": 1792292571,
+            "Key2": 2025764428
+          },
+          "PIC.LPK": {
+            "Key1": 2857639758,
+            "Key2": 2647391203
+          },
+          "BGM.LPK": {
+            "Key1": 3937187659,
+            "Key2": 3431616229
+          },
+          "SE.LPK": {
+            "Key1": 2470800812,
+            "Key2": 1136502214
+          },
+          "VOICE.LPK": {
+            "Key1": 3613663085,
+            "Key2": 1866122101
+          },
+          "DATA.LPK": {
+            "Key1": 3896989401,
+            "Key2": 2378491901
+          }
+        },
+        "Yasashii Mahou no Tonaekata": {
+          "SYS.LPK": {
+            "Key1": 884406569,
+            "Key2": 1134197596
+          },
+          "CHR.LPK": {
+            "Key1": 3448655751,
+            "Key2": 2780433755
+          },
+          "PIC.LPK": {
+            "Key1": 3607278681,
+            "Key2": 3131288554
+          },
+          "BGM.LPK": {
+            "Key1": 1518181974,
+            "Key2": 719055275
+          },
+          "SE.LPK": {
+            "Key1": 3127028186,
+            "Key2": 2458642263
+          },
+          "VOICE.LPK": {
+            "Key1": 2037490645,
+            "Key2": 1053145255
+          },
+          "DATA.LPK": {
+            "Key1": 3643516781,
+            "Key2": 2481681290
+          }
+        },
+        "Prism Princess": {
+          "SYS.LPK": {
+            "Key1": 3536067829,
+            "Key2": 2947863182
+          },
+          "CHR.LPK": {
+            "Key1": 3190434692,
+            "Key2": 2075006063
+          },
+          "PIC.LPK": {
+            "Key1": 1748982035,
+            "Key2": 1547572059
+          },
+          "BGM.LPK": {
+            "Key1": 3254028397,
+            "Key2": 1180194517
+          },
+          "SE.LPK": {
+            "Key1": 1791081822,
+            "Key2": 435520596
+          },
+          "VOICE.LPK": {
+            "Key1": 2444841954,
+            "Key2": 1039055514
+          },
+          "DATA.LPK": {
+            "Key1": 2494942012,
+            "Key2": 3807615869
+          }
+        }
+      }
+    }
