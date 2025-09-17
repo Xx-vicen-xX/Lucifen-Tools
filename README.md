@@ -7,7 +7,8 @@ Currently the scripts uploaded here are for the Unpacking and Repacking of the L
 
 Extracting:
 > python lpk_extractor.py game.lpk --aux-key 0xDEADBEEF 0x01234567
-python lpk_extractor.py game.lpk --aux-key 1312048700 3034103149
+
+> python lpk_extractor.py game.lpk --aux-key 1312048700 3034103149
 
 Repacaking:
 Change the Key values that I left here (from repacking Shuffle Essence) into the Key values of the VN you are working on.
@@ -15,16 +16,21 @@ Change the Key values that I left here (from repacking Shuffle Essence) into the
 
 ## Elg Image encoding
 Single file
-> python elg2png.py original.elg new.png 
+> python elg2png.py original.elg new.png
+
 > python png2elg.py edited.png new_edited.elg
 
 batch folder → folder
 > python png2elg.py PNG_in ELG_out
+
 > python elg2png.py ELG_in PNG_out
 
 ## Key scanning
+If you are working on a Lucifen based VN that doesn't have yet their keys found out you will need to dig out the key off the executable or maybe a script like the gameinit.sob sometimes, the scripts LPK seems to usually be using the generic LPK key in most VNs. 
 > python lpk_keyfinder.py game.lpk --scan gameinit.sob navel03.sob
+
 > python lpk_keyfinder.py game.lpk --scan game.exe --stride 1
+
 > python lpk_keyfinder.py game.lpk --scan ./Scripts
 
 ### tune performance / sensitivity
